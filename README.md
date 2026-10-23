@@ -4,7 +4,7 @@ A repository dedicated to studying, implementing, and practicing common algorith
 
 ## Requirements
 
-- PHP 8.2+
+- PHP 8.5
 - Composer
 
 ## Getting Started
