@@ -29,12 +29,13 @@ A repository dedicated to studying, implementing, and practicing common algorith
 
 ### Two Pointers
 - **Inward Traversal**
-  - [PairSum](file:///Users/javierlandini/coding-patterns/src/TwoPointers/InwardsTraversal/PairSum.php): Finding target sum pairs in a sorted array.
-  - [TripletSum](file:///Users/javierlandini/coding-patterns/src/TwoPointers/InwardsTraversal/TripletSum.php): Finding unique triplets that sum up to zero or a target.
-  - [IsPalindromeValid](file:///Users/javierlandini/coding-patterns/src/TwoPointers/InwardsTraversal/IsPalindromeValid.php): Verifying if a string is a palindrome ignoring non-alphanumeric characters.
-  - [LargestContainer](file:///Users/javierlandini/coding-patterns/src/TwoPointers/InwardsTraversal/LargestContainer.php): Finding two lines that together with the x-axis form a container holding the most water.
+  - [PairSum](src/TwoPointers/InwardsTraversal/PairSum.php): Finding target sum pairs in a sorted array.
+  - [TripletSum](src/TwoPointers/InwardsTraversal/TripletSum.php): Finding unique triplets that sum up to zero or a target.
+  - [IsPalindromeValid](src/TwoPointers/InwardsTraversal/IsPalindromeValid.php): Verifying if a string is a palindrome ignoring non-alphanumeric characters.
+  - [LargestContainer](src/TwoPointers/InwardsTraversal/LargestContainer.php): Finding two lines that together with the x-axis form a container holding the most water.
 - **Staged Traversal**
 - **Unidirectional Traversal** (Fast & Slow pointers / Sliding Window foundations)
+  - [ShiftZerosToTheEnd](src/TwoPointers/UnidirectionalTraversal/ShiftZerosToTheEnd.php): Moving all zero elements to the end of an array in place while preserving the order of non-zero elements.
 
 ## Testing
 
