@@ -8,8 +8,6 @@
 
 # IDE & Editor files
 .idea/
-.vscode/*
-!.vscode/settings.json
-!.vscode/extensions.json
+.vscode/
 .DS_Store
 Thumbs.db
