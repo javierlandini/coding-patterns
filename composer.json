@@ -1,0 +1,24 @@
+{
+    "name": "javierlandini/coding-patterns",
+    "description": "Coding patterns practice",
+    "type": "project",
+    "require": {
+        "pestphp/pest": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodingPatterns\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Javier Landini"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

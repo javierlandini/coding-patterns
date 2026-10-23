@@ -1,0 +1,15 @@
+/vendor/
+.phpunit.result.cache
+.pest/
+.env
+.env.backup
+.env.*.local
+*.log
+
+# IDE & Editor files
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
