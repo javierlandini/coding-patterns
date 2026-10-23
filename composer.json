@@ -2,6 +2,7 @@
     "name": "javierlandini/coding-patterns",
     "description": "Coding patterns practice",
     "type": "project",
+    "license": "MIT",
     "require": {
         "pestphp/pest": "^5.3"
     },
